@@ -27,8 +27,6 @@ if (reachOut)
   char *leetcode = "https://www.leetcode.com/saiai"
 }
 
-printf("reach out-> %s\n", email);
-
 #endif
 ```
 
