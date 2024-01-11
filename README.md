@@ -22,7 +22,7 @@ struct Person Ali[] = {
 if (reachOut)
 {
   char *email = "ojjip95@gmail.com" 
-  char *twitter = "https://twitter.com/0xsaii"
+  char *twitter = "https://twitter.com/__mynameisAli"
   char *linkedin = "https://www.linkedin.com/in/ali-gamareldin-972b22226/"
   char *leetcode = "https://www.leetcode.com/saiai"
 }
